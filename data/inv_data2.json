@@ -1,0 +1,1406 @@
+{
+ "days": 65,
+ "day_first": "2026-07-06",
+ "day_last": "2026-09-08",
+ "dest": [
+  {
+   "dest": "54",
+   "pos": 420,
+   "inward_qty": 94915.0,
+   "pending_qty": 53.0,
+   "value": 18548288.58,
+   "inward_days": 65,
+   "list_src": {
+    "10": 420
+   },
+   "breach_pos": 0,
+   "breach_qty": 0.0,
+   "breach_value": 0.0,
+   "fine_pos": 420,
+   "fine_value": 18548288.58
+  },
+  {
+   "dest": "80",
+   "pos": 380,
+   "inward_qty": 85757.0,
+   "pending_qty": 157.0,
+   "value": 16397978.73,
+   "inward_days": 65,
+   "list_src": {
+    "29": 380
+   },
+   "breach_pos": 17,
+   "breach_qty": 6964.0,
+   "breach_value": 1447124.19,
+   "fine_pos": 363,
+   "fine_value": 14950854.54
+  },
+  {
+   "dest": "51",
+   "pos": 359,
+   "inward_qty": 65389.0,
+   "pending_qty": 4.0,
+   "value": 13177510.45,
+   "inward_days": 65,
+   "list_src": {
+    "10": 359
+   },
+   "breach_pos": 1,
+   "breach_qty": 373.0,
+   "breach_value": 85683.53,
+   "fine_pos": 358,
+   "fine_value": 13091826.92
+  },
+  {
+   "dest": "6041",
+   "pos": 321,
+   "inward_qty": 54274.0,
+   "pending_qty": 233.0,
+   "value": 10418685.52,
+   "inward_days": 64,
+   "list_src": {
+    "29": 321
+   },
+   "breach_pos": 9,
+   "breach_qty": 2809.0,
+   "breach_value": 549216.18,
+   "fine_pos": 312,
+   "fine_value": 9869469.34
+  },
+  {
+   "dest": "6000",
+   "pos": 339,
+   "inward_qty": 52151.0,
+   "pending_qty": 107.0,
+   "value": 10081908.44,
+   "inward_days": 65,
+   "list_src": {
+    "12": 339
+   },
+   "breach_pos": 5,
+   "breach_qty": 1237.0,
+   "breach_value": 219176.44,
+   "fine_pos": 334,
+   "fine_value": 9862732.0
+  },
+  {
+   "dest": "84",
+   "pos": 314,
+   "inward_qty": 45322.0,
+   "pending_qty": 2.0,
+   "value": 8859692.75,
+   "inward_days": 60,
+   "list_src": {
+    "29": 314
+   },
+   "breach_pos": 13,
+   "breach_qty": 2769.0,
+   "breach_value": 525731.58,
+   "fine_pos": 301,
+   "fine_value": 8333961.17
+  },
+  {
+   "dest": "6038",
+   "pos": 338,
+   "inward_qty": 46276.0,
+   "pending_qty": 10.0,
+   "value": 8609227.95,
+   "inward_days": 65,
+   "list_src": {
+    "12": 338
+   },
+   "breach_pos": 14,
+   "breach_qty": 3272.0,
+   "breach_value": 737988.99,
+   "fine_pos": 324,
+   "fine_value": 7871238.96
+  },
+  {
+   "dest": "6012",
+   "pos": 335,
+   "inward_qty": 41808.0,
+   "pending_qty": 10.0,
+   "value": 8315218.61,
+   "inward_days": 65,
+   "list_src": {
+    "10": 335
+   },
+   "breach_pos": 6,
+   "breach_qty": 1014.0,
+   "breach_value": 235964.81,
+   "fine_pos": 329,
+   "fine_value": 8079253.8
+  },
+  {
+   "dest": "52",
+   "pos": 316,
+   "inward_qty": 41666.0,
+   "pending_qty": 32.0,
+   "value": 8104836.67,
+   "inward_days": 62,
+   "list_src": {
+    "10": 316
+   },
+   "breach_pos": 1,
+   "breach_qty": 87.0,
+   "breach_value": 18714.5,
+   "fine_pos": 315,
+   "fine_value": 8086122.17
+  },
+  {
+   "dest": "6027",
+   "pos": 325,
+   "inward_qty": 40911.0,
+   "pending_qty": 19.0,
+   "value": 7910166.43,
+   "inward_days": 65,
+   "list_src": {
+    "4": 325
+   },
+   "breach_pos": 8,
+   "breach_qty": 1094.0,
+   "breach_value": 228560.02,
+   "fine_pos": 317,
+   "fine_value": 7681606.41
+  },
+  {
+   "dest": "6001",
+   "pos": 324,
+   "inward_qty": 41107.0,
+   "pending_qty": 1.0,
+   "value": 7682372.52,
+   "inward_days": 65,
+   "list_src": {
+    "12": 324
+   },
+   "breach_pos": 10,
+   "breach_qty": 1778.0,
+   "breach_value": 395805.34,
+   "fine_pos": 314,
+   "fine_value": 7286567.18
+  },
+  {
+   "dest": "6036",
+   "pos": 328,
+   "inward_qty": 40675.0,
+   "pending_qty": 254.0,
+   "value": 7619944.67,
+   "inward_days": 64,
+   "list_src": {
+    "12": 328
+   },
+   "breach_pos": 12,
+   "breach_qty": 2541.0,
+   "breach_value": 368966.08,
+   "fine_pos": 316,
+   "fine_value": 7250978.59
+  },
+  {
+   "dest": "6002",
+   "pos": 322,
+   "inward_qty": 37669.0,
+   "pending_qty": 130.0,
+   "value": 7038563.44,
+   "inward_days": 65,
+   "list_src": {
+    "12": 322
+   },
+   "breach_pos": 13,
+   "breach_qty": 2464.0,
+   "breach_value": 543612.05,
+   "fine_pos": 309,
+   "fine_value": 6494951.39
+  },
+  {
+   "dest": "6026",
+   "pos": 297,
+   "inward_qty": 36636.0,
+   "pending_qty": 1.0,
+   "value": 6849541.82,
+   "inward_days": 61,
+   "list_src": {
+    "29": 297
+   },
+   "breach_pos": 13,
+   "breach_qty": 3104.0,
+   "breach_value": 620028.02,
+   "fine_pos": 284,
+   "fine_value": 6229513.8
+  },
+  {
+   "dest": "53",
+   "pos": 315,
+   "inward_qty": 35890.0,
+   "pending_qty": 4.0,
+   "value": 6791476.45,
+   "inward_days": 65,
+   "list_src": {
+    "10": 315
+   },
+   "breach_pos": 1,
+   "breach_qty": 19.0,
+   "breach_value": 5113.55,
+   "fine_pos": 314,
+   "fine_value": 6786362.9
+  },
+  {
+   "dest": "6042",
+   "pos": 307,
+   "inward_qty": 34724.0,
+   "pending_qty": 1.0,
+   "value": 6723237.34,
+   "inward_days": 64,
+   "list_src": {
+    "29": 307
+   },
+   "breach_pos": 4,
+   "breach_qty": 627.0,
+   "breach_value": 150032.27,
+   "fine_pos": 303,
+   "fine_value": 6573205.07
+  },
+  {
+   "dest": "6034",
+   "pos": 301,
+   "inward_qty": 35772.0,
+   "pending_qty": 31.0,
+   "value": 6676299.17,
+   "inward_days": 63,
+   "list_src": {
+    "4": 301
+   },
+   "breach_pos": 14,
+   "breach_qty": 2552.0,
+   "breach_value": 447453.22,
+   "fine_pos": 287,
+   "fine_value": 6228845.95
+  },
+  {
+   "dest": "6033",
+   "pos": 302,
+   "inward_qty": 32427.0,
+   "pending_qty": 33.0,
+   "value": 6243526.54,
+   "inward_days": 60,
+   "list_src": {
+    "4": 302
+   },
+   "breach_pos": 10,
+   "breach_qty": 2187.0,
+   "breach_value": 475220.51,
+   "fine_pos": 292,
+   "fine_value": 5768306.03
+  },
+  {
+   "dest": "6008",
+   "pos": 302,
+   "inward_qty": 31766.0,
+   "pending_qty": 3.0,
+   "value": 6180966.01,
+   "inward_days": 62,
+   "list_src": {
+    "29": 302
+   },
+   "breach_pos": 6,
+   "breach_qty": 914.0,
+   "breach_value": 183849.05,
+   "fine_pos": 296,
+   "fine_value": 5997116.96
+  },
+  {
+   "dest": "85",
+   "pos": 268,
+   "inward_qty": 31917.0,
+   "pending_qty": 297.0,
+   "value": 6128027.14,
+   "inward_days": 54,
+   "list_src": {
+    "10": 268
+   },
+   "breach_pos": 4,
+   "breach_qty": 373.0,
+   "breach_value": 79460.55,
+   "fine_pos": 264,
+   "fine_value": 6048566.59
+  },
+  {
+   "dest": "6011",
+   "pos": 298,
+   "inward_qty": 32185.0,
+   "pending_qty": 0.0,
+   "value": 6086442.7,
+   "inward_days": 56,
+   "list_src": {
+    "29": 298
+   },
+   "breach_pos": 18,
+   "breach_qty": 2489.0,
+   "breach_value": 550494.39,
+   "fine_pos": 280,
+   "fine_value": 5535948.31
+  },
+  {
+   "dest": "1096",
+   "pos": 310,
+   "inward_qty": 31561.0,
+   "pending_qty": 1.0,
+   "value": 5877483.1,
+   "inward_days": 64,
+   "list_src": {
+    "29": 310
+   },
+   "breach_pos": 14,
+   "breach_qty": 5638.0,
+   "breach_value": 969293.49,
+   "fine_pos": 296,
+   "fine_value": 4908189.61
+  },
+  {
+   "dest": "6003",
+   "pos": 300,
+   "inward_qty": 29605.0,
+   "pending_qty": 0.0,
+   "value": 5813857.36,
+   "inward_days": 51,
+   "list_src": {
+    "12": 300
+   },
+   "breach_pos": 9,
+   "breach_qty": 1672.0,
+   "breach_value": 290638.96,
+   "fine_pos": 291,
+   "fine_value": 5523218.4
+  },
+  {
+   "dest": "6037",
+   "pos": 130,
+   "inward_qty": 26895.0,
+   "pending_qty": 9.0,
+   "value": 5794666.42,
+   "inward_days": 38,
+   "list_src": {
+    "10": 130
+   },
+   "breach_pos": 21,
+   "breach_qty": 5754.0,
+   "breach_value": 1588354.06,
+   "fine_pos": 109,
+   "fine_value": 4206312.36
+  },
+  {
+   "dest": "1063",
+   "pos": 314,
+   "inward_qty": 27993.0,
+   "pending_qty": 4.0,
+   "value": 5422440.61,
+   "inward_days": 64,
+   "list_src": {
+    "29": 314
+   },
+   "breach_pos": 12,
+   "breach_qty": 6540.0,
+   "breach_value": 1205018.24,
+   "fine_pos": 302,
+   "fine_value": 4217422.37
+  },
+  {
+   "dest": "6073",
+   "pos": 286,
+   "inward_qty": 25882.0,
+   "pending_qty": 2.0,
+   "value": 5224283.64,
+   "inward_days": 63,
+   "list_src": {
+    "29": 286
+   },
+   "breach_pos": 9,
+   "breach_qty": 1014.0,
+   "breach_value": 254841.13,
+   "fine_pos": 277,
+   "fine_value": 4969442.51
+  },
+  {
+   "dest": "90",
+   "pos": 308,
+   "inward_qty": 26368.0,
+   "pending_qty": 0.0,
+   "value": 5047120.82,
+   "inward_days": 63,
+   "list_src": {
+    "29": 308
+   },
+   "breach_pos": 21,
+   "breach_qty": 2070.0,
+   "breach_value": 412206.33,
+   "fine_pos": 287,
+   "fine_value": 4634914.49
+  },
+  {
+   "dest": "6013",
+   "pos": 304,
+   "inward_qty": 26168.0,
+   "pending_qty": 0.0,
+   "value": 5030661.29,
+   "inward_days": 61,
+   "list_src": {
+    "29": 304
+   },
+   "breach_pos": 14,
+   "breach_qty": 1714.0,
+   "breach_value": 378348.42,
+   "fine_pos": 290,
+   "fine_value": 4652312.87
+  },
+  {
+   "dest": "87",
+   "pos": 297,
+   "inward_qty": 24891.0,
+   "pending_qty": 1.0,
+   "value": 4672868.91,
+   "inward_days": 62,
+   "list_src": {
+    "29": 297
+   },
+   "breach_pos": 8,
+   "breach_qty": 850.0,
+   "breach_value": 161914.94,
+   "fine_pos": 289,
+   "fine_value": 4510953.97
+  },
+  {
+   "dest": "6051",
+   "pos": 285,
+   "inward_qty": 24042.0,
+   "pending_qty": 1.0,
+   "value": 4621771.56,
+   "inward_days": 60,
+   "list_src": {
+    "29": 285
+   },
+   "breach_pos": 6,
+   "breach_qty": 861.0,
+   "breach_value": 126753.39,
+   "fine_pos": 279,
+   "fine_value": 4495018.17
+  },
+  {
+   "dest": "6029",
+   "pos": 260,
+   "inward_qty": 23714.0,
+   "pending_qty": 121.0,
+   "value": 4592163.06,
+   "inward_days": 60,
+   "list_src": {
+    "4": 260
+   },
+   "breach_pos": 22,
+   "breach_qty": 3238.0,
+   "breach_value": 682568.95,
+   "fine_pos": 238,
+   "fine_value": 3909594.11
+  },
+  {
+   "dest": "86",
+   "pos": 280,
+   "inward_qty": 21447.0,
+   "pending_qty": 30.0,
+   "value": 4087060.68,
+   "inward_days": 64,
+   "list_src": {
+    "4": 280
+   },
+   "breach_pos": 10,
+   "breach_qty": 1181.0,
+   "breach_value": 240774.52,
+   "fine_pos": 270,
+   "fine_value": 3846286.16
+  },
+  {
+   "dest": "6040",
+   "pos": 222,
+   "inward_qty": 21457.0,
+   "pending_qty": 5.0,
+   "value": 4046544.9,
+   "inward_days": 46,
+   "list_src": {
+    "4": 222
+   },
+   "breach_pos": 7,
+   "breach_qty": 1557.0,
+   "breach_value": 309668.45,
+   "fine_pos": 215,
+   "fine_value": 3736876.45
+  },
+  {
+   "dest": "6045",
+   "pos": 272,
+   "inward_qty": 19387.0,
+   "pending_qty": 9.0,
+   "value": 3919154.53,
+   "inward_days": 55,
+   "list_src": {
+    "10": 272
+   },
+   "breach_pos": 3,
+   "breach_qty": 225.0,
+   "breach_value": 60683.78,
+   "fine_pos": 269,
+   "fine_value": 3858470.75
+  },
+  {
+   "dest": "6065",
+   "pos": 299,
+   "inward_qty": 19419.0,
+   "pending_qty": 65.0,
+   "value": 3828403.78,
+   "inward_days": 62,
+   "list_src": {
+    "29": 299
+   },
+   "breach_pos": 28,
+   "breach_qty": 1974.0,
+   "breach_value": 425109.19,
+   "fine_pos": 271,
+   "fine_value": 3403294.59
+  },
+  {
+   "dest": "6006",
+   "pos": 293,
+   "inward_qty": 20717.0,
+   "pending_qty": 2.0,
+   "value": 3812555.6,
+   "inward_days": 63,
+   "list_src": {
+    "29": 293
+   },
+   "breach_pos": 8,
+   "breach_qty": 740.0,
+   "breach_value": 161864.31,
+   "fine_pos": 285,
+   "fine_value": 3650691.29
+  },
+  {
+   "dest": "6055",
+   "pos": 296,
+   "inward_qty": 20004.0,
+   "pending_qty": 0.0,
+   "value": 3775519.86,
+   "inward_days": 63,
+   "list_src": {
+    "29": 296
+   },
+   "breach_pos": 8,
+   "breach_qty": 838.0,
+   "breach_value": 143388.24,
+   "fine_pos": 288,
+   "fine_value": 3632131.62
+  },
+  {
+   "dest": "6083",
+   "pos": 261,
+   "inward_qty": 20115.0,
+   "pending_qty": 4.0,
+   "value": 3744307.01,
+   "inward_days": 56,
+   "list_src": {
+    "12": 261
+   },
+   "breach_pos": 5,
+   "breach_qty": 392.0,
+   "breach_value": 88307.37,
+   "fine_pos": 256,
+   "fine_value": 3655999.64
+  },
+  {
+   "dest": "6017",
+   "pos": 293,
+   "inward_qty": 18861.0,
+   "pending_qty": 128.0,
+   "value": 3644365.59,
+   "inward_days": 63,
+   "list_src": {
+    "10": 293
+   },
+   "breach_pos": 7,
+   "breach_qty": 413.0,
+   "breach_value": 90358.95,
+   "fine_pos": 286,
+   "fine_value": 3554006.64
+  },
+  {
+   "dest": "6053",
+   "pos": 286,
+   "inward_qty": 17617.0,
+   "pending_qty": 0.0,
+   "value": 3489576.73,
+   "inward_days": 62,
+   "list_src": {
+    "29": 286
+   },
+   "breach_pos": 4,
+   "breach_qty": 773.0,
+   "breach_value": 209638.05,
+   "fine_pos": 282,
+   "fine_value": 3279938.68
+  },
+  {
+   "dest": "6021",
+   "pos": 285,
+   "inward_qty": 17431.0,
+   "pending_qty": 245.0,
+   "value": 3330184.16,
+   "inward_days": 64,
+   "list_src": {
+    "2": 285
+   },
+   "breach_pos": 13,
+   "breach_qty": 1283.0,
+   "breach_value": 294346.47,
+   "fine_pos": 272,
+   "fine_value": 3035837.69
+  },
+  {
+   "dest": "6071",
+   "pos": 271,
+   "inward_qty": 16900.0,
+   "pending_qty": 5.0,
+   "value": 3079560.73,
+   "inward_days": 46,
+   "list_src": {
+    "12": 271
+   },
+   "breach_pos": 1,
+   "breach_qty": 36.0,
+   "breach_value": 7645.1,
+   "fine_pos": 270,
+   "fine_value": 3071915.63
+  },
+  {
+   "dest": "6062",
+   "pos": 284,
+   "inward_qty": 16557.0,
+   "pending_qty": 1.0,
+   "value": 3052424.92,
+   "inward_days": 60,
+   "list_src": {
+    "29": 284
+   },
+   "breach_pos": 6,
+   "breach_qty": 467.0,
+   "breach_value": 74918.07,
+   "fine_pos": 278,
+   "fine_value": 2977506.85
+  },
+  {
+   "dest": "6074",
+   "pos": 239,
+   "inward_qty": 14605.0,
+   "pending_qty": 0.0,
+   "value": 3013464.6,
+   "inward_days": 59,
+   "list_src": {
+    "29": 239
+   },
+   "breach_pos": 7,
+   "breach_qty": 2160.0,
+   "breach_value": 493218.17,
+   "fine_pos": 232,
+   "fine_value": 2520246.43
+  },
+  {
+   "dest": "1056",
+   "pos": 44,
+   "inward_qty": 15762.0,
+   "pending_qty": 137.0,
+   "value": 2961158.64,
+   "inward_days": 29,
+   "list_src": {
+    "29": 44
+   },
+   "breach_pos": 6,
+   "breach_qty": 3535.0,
+   "breach_value": 696562.93,
+   "fine_pos": 38,
+   "fine_value": 2264595.71
+  },
+  {
+   "dest": "6025",
+   "pos": 231,
+   "inward_qty": 15895.0,
+   "pending_qty": 2.0,
+   "value": 2921398.93,
+   "inward_days": 55,
+   "list_src": {
+    "29": 231
+   },
+   "breach_pos": 4,
+   "breach_qty": 381.0,
+   "breach_value": 92932.08,
+   "fine_pos": 227,
+   "fine_value": 2828466.85
+  },
+  {
+   "dest": "6061",
+   "pos": 273,
+   "inward_qty": 15248.0,
+   "pending_qty": 1.0,
+   "value": 2814410.16,
+   "inward_days": 61,
+   "list_src": {
+    "29": 273
+   },
+   "breach_pos": 12,
+   "breach_qty": 543.0,
+   "breach_value": 88740.36,
+   "fine_pos": 261,
+   "fine_value": 2725669.8
+  },
+  {
+   "dest": "6054",
+   "pos": 274,
+   "inward_qty": 15076.0,
+   "pending_qty": 1.0,
+   "value": 2798380.63,
+   "inward_days": 63,
+   "list_src": {
+    "29": 274
+   },
+   "breach_pos": 6,
+   "breach_qty": 275.0,
+   "breach_value": 66062.5,
+   "fine_pos": 268,
+   "fine_value": 2732318.13
+  },
+  {
+   "dest": "6060",
+   "pos": 282,
+   "inward_qty": 15138.0,
+   "pending_qty": 0.0,
+   "value": 2787440.36,
+   "inward_days": 60,
+   "list_src": {
+    "29": 282
+   },
+   "breach_pos": 17,
+   "breach_qty": 1226.0,
+   "breach_value": 276185.9,
+   "fine_pos": 265,
+   "fine_value": 2511254.46
+  },
+  {
+   "dest": "6016",
+   "pos": 248,
+   "inward_qty": 14233.0,
+   "pending_qty": 0.0,
+   "value": 2740462.29,
+   "inward_days": 62,
+   "list_src": {
+    "29": 248
+   },
+   "breach_pos": 10,
+   "breach_qty": 774.0,
+   "breach_value": 156641.99,
+   "fine_pos": 238,
+   "fine_value": 2583820.3
+  },
+  {
+   "dest": "6028",
+   "pos": 266,
+   "inward_qty": 14242.0,
+   "pending_qty": 17.0,
+   "value": 2686102.55,
+   "inward_days": 64,
+   "list_src": {
+    "2": 266
+   },
+   "breach_pos": 10,
+   "breach_qty": 851.0,
+   "breach_value": 187595.88,
+   "fine_pos": 256,
+   "fine_value": 2498506.67
+  },
+  {
+   "dest": "6068",
+   "pos": 279,
+   "inward_qty": 13213.0,
+   "pending_qty": 0.0,
+   "value": 2373647.64,
+   "inward_days": 63,
+   "list_src": {
+    "29": 279
+   },
+   "breach_pos": 6,
+   "breach_qty": 508.0,
+   "breach_value": 109413.34,
+   "fine_pos": 273,
+   "fine_value": 2264234.3
+  },
+  {
+   "dest": "6064",
+   "pos": 278,
+   "inward_qty": 12768.0,
+   "pending_qty": 50.0,
+   "value": 2305088.85,
+   "inward_days": 59,
+   "list_src": {
+    "29": 278
+   },
+   "breach_pos": 7,
+   "breach_qty": 390.0,
+   "breach_value": 79888.26,
+   "fine_pos": 271,
+   "fine_value": 2225200.59
+  },
+  {
+   "dest": "6066",
+   "pos": 265,
+   "inward_qty": 12335.0,
+   "pending_qty": 0.0,
+   "value": 2286398.84,
+   "inward_days": 61,
+   "list_src": {
+    "29": 265
+   },
+   "breach_pos": 7,
+   "breach_qty": 334.0,
+   "breach_value": 73503.82,
+   "fine_pos": 258,
+   "fine_value": 2212895.02
+  },
+  {
+   "dest": "1079",
+   "pos": 48,
+   "inward_qty": 10231.0,
+   "pending_qty": 0.0,
+   "value": 2175240.67,
+   "inward_days": 28,
+   "list_src": {
+    "29": 48
+   },
+   "breach_pos": 12,
+   "breach_qty": 1940.0,
+   "breach_value": 370361.44,
+   "fine_pos": 36,
+   "fine_value": 1804879.23
+  },
+  {
+   "dest": "6052",
+   "pos": 236,
+   "inward_qty": 9438.0,
+   "pending_qty": 0.0,
+   "value": 1819776.82,
+   "inward_days": 62,
+   "list_src": {
+    "29": 236
+   },
+   "breach_pos": 2,
+   "breach_qty": 91.0,
+   "breach_value": 11476.22,
+   "fine_pos": 234,
+   "fine_value": 1808300.6
+  },
+  {
+   "dest": "6067",
+   "pos": 248,
+   "inward_qty": 9008.0,
+   "pending_qty": 0.0,
+   "value": 1681341.64,
+   "inward_days": 63,
+   "list_src": {
+    "29": 248
+   },
+   "breach_pos": 2,
+   "breach_qty": 40.0,
+   "breach_value": 10068.2,
+   "fine_pos": 246,
+   "fine_value": 1671273.44
+  },
+  {
+   "dest": "6010",
+   "pos": 198,
+   "inward_qty": 8214.0,
+   "pending_qty": 11.0,
+   "value": 1472236.58,
+   "inward_days": 48,
+   "list_src": {
+    "2": 198
+   },
+   "breach_pos": 3,
+   "breach_qty": 110.0,
+   "breach_value": 22590.07,
+   "fine_pos": 195,
+   "fine_value": 1449646.51
+  },
+  {
+   "dest": "6056",
+   "pos": 180,
+   "inward_qty": 7633.0,
+   "pending_qty": 1.0,
+   "value": 1341326.14,
+   "inward_days": 27,
+   "list_src": {
+    "29": 180
+   },
+   "breach_pos": 4,
+   "breach_qty": 345.0,
+   "breach_value": 78470.08,
+   "fine_pos": 176,
+   "fine_value": 1262856.06
+  },
+  {
+   "dest": "6059",
+   "pos": 192,
+   "inward_qty": 7048.0,
+   "pending_qty": 48.0,
+   "value": 1236618.01,
+   "inward_days": 50,
+   "list_src": {
+    "2": 192
+   },
+   "breach_pos": 18,
+   "breach_qty": 692.0,
+   "breach_value": 165471.75,
+   "fine_pos": 174,
+   "fine_value": 1071146.26
+  },
+  {
+   "dest": "6087",
+   "pos": 93,
+   "inward_qty": 6871.0,
+   "pending_qty": 0.0,
+   "value": 1221124.59,
+   "inward_days": 55,
+   "list_src": {
+    "29": 93
+   },
+   "breach_pos": 4,
+   "breach_qty": 687.0,
+   "breach_value": 98802.8,
+   "fine_pos": 89,
+   "fine_value": 1122321.79
+  },
+  {
+   "dest": "6063",
+   "pos": 175,
+   "inward_qty": 5710.0,
+   "pending_qty": 0.0,
+   "value": 1009920.11,
+   "inward_days": 59,
+   "list_src": {
+    "29": 175
+   },
+   "breach_pos": 4,
+   "breach_qty": 214.0,
+   "breach_value": 52264.99,
+   "fine_pos": 171,
+   "fine_value": 957655.12
+  },
+  {
+   "dest": "6057",
+   "pos": 133,
+   "inward_qty": 4375.0,
+   "pending_qty": 12.0,
+   "value": 767815.06,
+   "inward_days": 56,
+   "list_src": {
+    "29": 133
+   },
+   "breach_pos": 9,
+   "breach_qty": 488.0,
+   "breach_value": 106775.84,
+   "fine_pos": 124,
+   "fine_value": 661039.22
+  },
+  {
+   "dest": "6050",
+   "pos": 33,
+   "inward_qty": 1570.0,
+   "pending_qty": 1.0,
+   "value": 422443.81,
+   "inward_days": 12,
+   "list_src": {
+    "29": 33
+   },
+   "breach_pos": 1,
+   "breach_qty": 225.0,
+   "breach_value": 77022.39,
+   "fine_pos": 32,
+   "fine_value": 345421.42
+  },
+  {
+   "dest": "6049",
+   "pos": 58,
+   "inward_qty": 1544.0,
+   "pending_qty": 0.0,
+   "value": 413951.38,
+   "inward_days": 20,
+   "list_src": {
+    "29": 58
+   },
+   "breach_pos": 0,
+   "breach_qty": 0.0,
+   "breach_value": 0.0,
+   "fine_pos": 58,
+   "fine_value": 413951.38
+  },
+  {
+   "dest": "6085",
+   "pos": 38,
+   "inward_qty": 1194.0,
+   "pending_qty": 0.0,
+   "value": 334162.52,
+   "inward_days": 19,
+   "list_src": {
+    "29": 38
+   },
+   "breach_pos": 2,
+   "breach_qty": 58.0,
+   "breach_value": 21818.4,
+   "fine_pos": 36,
+   "fine_value": 312344.12
+  },
+  {
+   "dest": "6084",
+   "pos": 24,
+   "inward_qty": 1110.0,
+   "pending_qty": 0.0,
+   "value": 302927.93,
+   "inward_days": 20,
+   "list_src": {
+    "29": 24
+   },
+   "breach_pos": 2,
+   "breach_qty": 209.0,
+   "breach_value": 9272.16,
+   "fine_pos": 22,
+   "fine_value": 293655.77
+  }
+ ],
+ "by_day": {
+  "2026-07-06": {
+   "pos": 110,
+   "qty": 13184.0,
+   "value": 2904597.48
+  },
+  "2026-07-07": {
+   "pos": 174,
+   "qty": 17607.0,
+   "value": 3866661.34
+  },
+  "2026-07-08": {
+   "pos": 276,
+   "qty": 28110.0,
+   "value": 4957061.87
+  },
+  "2026-07-09": {
+   "pos": 239,
+   "qty": 20722.0,
+   "value": 4104105.04
+  },
+  "2026-07-10": {
+   "pos": 228,
+   "qty": 25874.0,
+   "value": 5903713.21
+  },
+  "2026-07-11": {
+   "pos": 277,
+   "qty": 30388.0,
+   "value": 5502043.72
+  },
+  "2026-07-12": {
+   "pos": 236,
+   "qty": 23318.0,
+   "value": 3920413.04
+  },
+  "2026-07-13": {
+   "pos": 290,
+   "qty": 31688.0,
+   "value": 5987273.28
+  },
+  "2026-07-14": {
+   "pos": 256,
+   "qty": 22180.0,
+   "value": 4731598.98
+  },
+  "2026-07-15": {
+   "pos": 212,
+   "qty": 20772.0,
+   "value": 4183808.96
+  },
+  "2026-07-16": {
+   "pos": 305,
+   "qty": 27652.0,
+   "value": 5498072.01
+  },
+  "2026-07-17": {
+   "pos": 289,
+   "qty": 23187.0,
+   "value": 3487315.93
+  },
+  "2026-07-18": {
+   "pos": 237,
+   "qty": 19221.0,
+   "value": 3303608.11
+  },
+  "2026-07-19": {
+   "pos": 255,
+   "qty": 20450.0,
+   "value": 3809975.39
+  },
+  "2026-07-20": {
+   "pos": 262,
+   "qty": 22875.0,
+   "value": 4328442.38
+  },
+  "2026-07-21": {
+   "pos": 217,
+   "qty": 16218.0,
+   "value": 3408806.39
+  },
+  "2026-07-22": {
+   "pos": 260,
+   "qty": 15517.0,
+   "value": 3026970.35
+  },
+  "2026-07-23": {
+   "pos": 328,
+   "qty": 25600.0,
+   "value": 5101133.89
+  },
+  "2026-07-24": {
+   "pos": 284,
+   "qty": 18450.0,
+   "value": 3328762.76
+  },
+  "2026-07-25": {
+   "pos": 272,
+   "qty": 18566.0,
+   "value": 3257510.03
+  },
+  "2026-07-26": {
+   "pos": 307,
+   "qty": 30297.0,
+   "value": 5440803.94
+  },
+  "2026-07-27": {
+   "pos": 315,
+   "qty": 26591.0,
+   "value": 4899656.42
+  },
+  "2026-07-28": {
+   "pos": 273,
+   "qty": 20368.0,
+   "value": 3916198.3
+  },
+  "2026-07-29": {
+   "pos": 214,
+   "qty": 18301.0,
+   "value": 3647268.63
+  },
+  "2026-07-30": {
+   "pos": 272,
+   "qty": 29086.0,
+   "value": 6121898.62
+  },
+  "2026-07-31": {
+   "pos": 285,
+   "qty": 24528.0,
+   "value": 4610507.57
+  },
+  "2026-08-01": {
+   "pos": 327,
+   "qty": 32273.0,
+   "value": 5340535.87
+  },
+  "2026-08-02": {
+   "pos": 258,
+   "qty": 30577.0,
+   "value": 4565351.87
+  },
+  "2026-08-03": {
+   "pos": 240,
+   "qty": 29396.0,
+   "value": 4873668.77
+  },
+  "2026-08-04": {
+   "pos": 296,
+   "qty": 29669.0,
+   "value": 6011765.67
+  },
+  "2026-08-05": {
+   "pos": 267,
+   "qty": 37719.0,
+   "value": 6577226.35
+  },
+  "2026-08-06": {
+   "pos": 376,
+   "qty": 45724.0,
+   "value": 6265714.23
+  },
+  "2026-08-07": {
+   "pos": 410,
+   "qty": 53696.0,
+   "value": 9066472.37
+  },
+  "2026-08-08": {
+   "pos": 350,
+   "qty": 46085.0,
+   "value": 7711798.7
+  },
+  "2026-08-09": {
+   "pos": 258,
+   "qty": 31014.0,
+   "value": 6104697.82
+  },
+  "2026-08-10": {
+   "pos": 373,
+   "qty": 42748.0,
+   "value": 8309138.94
+  },
+  "2026-08-11": {
+   "pos": 381,
+   "qty": 36615.0,
+   "value": 7139104.28
+  },
+  "2026-08-12": {
+   "pos": 322,
+   "qty": 30505.0,
+   "value": 5813687.47
+  },
+  "2026-08-13": {
+   "pos": 316,
+   "qty": 27278.0,
+   "value": 5225575.0
+  },
+  "2026-08-14": {
+   "pos": 380,
+   "qty": 33300.0,
+   "value": 6840884.11
+  },
+  "2026-08-15": {
+   "pos": 219,
+   "qty": 26149.0,
+   "value": 5272760.8
+  },
+  "2026-08-16": {
+   "pos": 333,
+   "qty": 32159.0,
+   "value": 6340048.57
+  },
+  "2026-08-17": {
+   "pos": 266,
+   "qty": 27538.0,
+   "value": 5445676.81
+  },
+  "2026-08-18": {
+   "pos": 275,
+   "qty": 26520.0,
+   "value": 5496517.6
+  },
+  "2026-08-19": {
+   "pos": 323,
+   "qty": 19235.0,
+   "value": 4086349.29
+  },
+  "2026-08-20": {
+   "pos": 321,
+   "qty": 30034.0,
+   "value": 5673986.86
+  },
+  "2026-08-21": {
+   "pos": 280,
+   "qty": 24165.0,
+   "value": 5003536.2
+  },
+  "2026-08-22": {
+   "pos": 208,
+   "qty": 27562.0,
+   "value": 5164495.67
+  },
+  "2026-08-23": {
+   "pos": 290,
+   "qty": 23611.0,
+   "value": 4886700.54
+  },
+  "2026-08-24": {
+   "pos": 262,
+   "qty": 22082.0,
+   "value": 4583789.32
+  },
+  "2026-08-25": {
+   "pos": 233,
+   "qty": 16852.0,
+   "value": 3369513.53
+  },
+  "2026-08-26": {
+   "pos": 147,
+   "qty": 16180.0,
+   "value": 3438465.41
+  },
+  "2026-08-27": {
+   "pos": 230,
+   "qty": 15629.0,
+   "value": 3462838.67
+  },
+  "2026-08-28": {
+   "pos": 285,
+   "qty": 22494.0,
+   "value": 4801006.93
+  },
+  "2026-08-29": {
+   "pos": 242,
+   "qty": 18977.0,
+   "value": 3905074.91
+  },
+  "2026-08-30": {
+   "pos": 246,
+   "qty": 18755.0,
+   "value": 3785732.14
+  },
+  "2026-08-31": {
+   "pos": 267,
+   "qty": 21253.0,
+   "value": 4548389.67
+  },
+  "2026-09-01": {
+   "pos": 208,
+   "qty": 20447.0,
+   "value": 4676651.18
+  },
+  "2026-09-02": {
+   "pos": 161,
+   "qty": 25844.0,
+   "value": 6239143.54
+  },
+  "2026-09-03": {
+   "pos": 186,
+   "qty": 29277.0,
+   "value": 5323434.73
+  },
+  "2026-09-04": {
+   "pos": 296,
+   "qty": 39679.0,
+   "value": 6940279.01
+  },
+  "2026-09-05": {
+   "pos": 224,
+   "qty": 27339.0,
+   "value": 4932418.93
+  },
+  "2026-09-06": {
+   "pos": 239,
+   "qty": 26035.0,
+   "value": 5789652.07
+  },
+  "2026-09-07": {
+   "pos": 227,
+   "qty": 25050.0,
+   "value": 5630270.94
+  },
+  "2026-09-08": {
+   "pos": 74,
+   "qty": 8514.0,
+   "value": 2134675.93
+  }
+ }
+}
